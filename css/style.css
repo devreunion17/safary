@@ -1152,4 +1152,7 @@ body {
   .premium__list {
     grid-template-columns: repeat(1, 1fr);
   }
+    .directions__inner {
+    grid-gap: 10px;
+  }
 }
